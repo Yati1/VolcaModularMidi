@@ -1,4 +1,7 @@
 # VolcaModularMidi
+
+The [original Volca midi project](https://github.com/sensai7/VolcaModularMidi) seemed to have a glitch where after a few seconds of playing the volca will get stuck on a single-note. After some investigating I found that [this way of wiring up the octocoupler fixed the issue](https://hackaday.com/tag/6n137/). 
+
 This is a hardware mod to add MIDI IN capability to the [Korg Volca Modular](https://www.korg.com/us/products/dj/volca_modular/)
 
 ![Board](https://i.imgur.com/cTA2aZk.jpg)
