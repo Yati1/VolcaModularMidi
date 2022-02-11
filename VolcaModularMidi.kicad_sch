@@ -609,7 +609,6 @@
     )
   )
 
-
   (junction (at 95.25 49.53) (diameter 0) (color 0 0 0 0)
     (uuid 9285293e-f7a3-4e01-ac88-9ebc0c104a54)
   )
@@ -856,7 +855,7 @@
     (property "Value" "Conn_01x03_Female" (id 1) (at 46.99 35.56 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x03_P2.00mm_Vertical" (id 2) (at 50.8 27.94 0)
+    (property "Footprint" "Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical" (id 2) (at 50.8 27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 50.8 27.94 0)
@@ -876,7 +875,7 @@
       (reference "D1") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
     (path "/54642827-47cd-4706-b98a-56254729af31"
-      (reference "J1") (unit 1) (value "Conn_01x03_Female") (footprint "Connector_PinSocket_2.00mm:PinSocket_1x03_P2.00mm_Vertical")
+      (reference "J1") (unit 1) (value "Conn_01x03_Female") (footprint "Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-00005cd053d1"
       (reference "J2") (unit 1) (value "MIDI_IN") (footprint "eurocad:MIDI_DIN5")
